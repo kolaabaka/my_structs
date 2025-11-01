@@ -1,4 +1,4 @@
-package my_stack
+package my_structs
 
 import (
 	"testing"

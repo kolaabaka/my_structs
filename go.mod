@@ -1,3 +1,3 @@
-module github.com/kolaabaka/stack_golang
+module github.com/kolaabaka/my_structs
 
 go 1.23.0
